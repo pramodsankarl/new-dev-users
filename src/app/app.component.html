@@ -1,0 +1,62 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <div>Favorite users</div>
+  </div>
+  <div class="row">
+    TODO: Display the favorited users here, Clicking on trash icon will
+    unfavorite them
+    <div class="col-xs-12 favorite-user">
+      <div class="col-xs-12 col-sm-3">
+        <a>
+          <i class="fa fa-trash-o" aria-hidden="true"></i>
+        </a>
+        <a>MPlanck@RedBoxDIT1</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<ng-container *ngIf="(teams$ | async) as teams" class="row">
+  <div class="col-xs-3 col-sm-2">
+    <side-nav [teams]="teams"></side-nav>
+  </div>
+
+  <div class="panel col-xs-8">
+    TODO: List the User Info for the selected team name from the left panel
+
+    <div class="form-group col-xs-12 col-sm-10">
+      <label form="search">Search:</label>
+      <input
+        name="search"
+        type="text"
+        autofocus=""
+        class="form-control ng-valid ng-touched ng-dirty ng-valid-parse ng-empty"
+        ng-model="searchUser"
+      />
+    </div>
+
+    <div class="panel panel-info col-xs-12">
+      <div class="panel-heading">
+        <div class="col-xs-12">
+          <strong>TODO: Display Client Name as header: eg: redboxdit1</strong>
+        </div>
+        <div class="client-subheading">TODO: Display Client ID</div>
+      </div>
+
+      <div>
+        <div class="col-xs-11 col-md-4">
+          <a class="favorite col-xs-1">
+            <i class="fa fa-star" aria-hidden="true"></i>
+          </a>
+          TODO: Display User Name eg: Amedeo Avogadro
+        </div>
+        <div class="col-xs-12 col-md-4 ng-binding">
+          TODO: Display User ID eg: AAvogadro@RedBoxDIT1
+        </div>
+        <div class="col-xs-12 col-md-4 ng-binding">
+          TODO: Display user ID
+        </div>
+      </div>
+    </div>
+  </div>
+</ng-container>

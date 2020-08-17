@@ -1,0 +1,82 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  font-family: sans-serif;
+}
+
+html {
+  background-color: #e6e6e6;
+}
+
+a {
+  cursor: pointer;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+a,
+a:hover {
+  color: #086274;
+  outline: none;
+}
+
+.role {
+  float: right;
+}
+
+.panel-body {
+  padding: 10px;
+}
+
+.favorite {
+  margin-right: 5px;
+}
+
+.favorite-user {
+  padding: 10px;
+}
+
+.fa-star {
+  color: gold;
+}
+
+.user-list {
+  background-color: #eee;
+}
+
+.user-list:nth-of-type(2n) {
+  background-color: #fff;
+}
+
+.active {
+  background-color: #eeeeee;
+}
+
+.fixture-list {
+  background-color: #eee;
+}
+
+.fixture-list:nth-of-type(2n) {
+  background-color: #fff;
+}
+
+.client-subheading {
+  text-align: right;
+}
+
+.user-notes {
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+}
+
+.copy-button {
+  position: absolute;
+  right: 0;
+}
+
+.login-link {
+  text-align: center;
+  margin-top: 20px;
+}

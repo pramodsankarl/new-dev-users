@@ -1,0 +1,326 @@
+{
+  "teams": [
+    {
+      "teamName": "Time",
+      "clients": [
+        {
+          "clientName": "redboxdit4",
+          "clientId": "G32M51EN1V968B8C",
+          "password": "adpadp10",
+          "sor": "eetime",
+          "users": [
+            {
+              "username": "HMaddox@REDBOXDIT4",
+              "name": "Hop Maddox",
+              "aoid": "G39M0630NN8KY9FM",
+              "notes": "TSH - Punch edits disallowed"
+            },
+            {
+              "username": "JHatfield@REDBOXDIT4",
+              "name": "Jared Hatfield",
+              "aoid": "G39M0630NN8KCVNF",
+              "notes": "Hourly - Timezone amsterdam, rome, vienna +1.00 GMT"
+            },
+            {
+              "username": "EBlevis@REDBOXDIT4",
+              "name": "Erasmus Blevins",
+              "aoid": "G39M0630NN8KN62G",
+              "notes": "Hourly - Punch edits disallowed"
+            },
+            {
+              "username": "PRosa@REDBOXDIT4",
+              "name": "Phillip Rosa",
+              "aoid": "G39M0630NN8KQMDA",
+              "notes": "Timestamp"
+            }
+          ]
+        },
+        {
+          "clientName": "redboxdit5",
+          "clientId": "G3G2H1DJ5SRFDGG1",
+          "password": "adpadp10",
+          "sor": "eetime",
+          "users": [
+            {
+              "username": "M20081@RedboxDIT5",
+              "name": "Matthew 20081",
+              "aoid": "G3F64VKPAMKNTA7M",
+              "notes": "Timestamp Hourly"
+            },
+            {
+              "username": "B20082@RedboxDIT5",
+              "name": "Brooke 20082",
+              "aoid": "G3F64VKPAMKNGQ4R",
+              "notes": "Timestamp Hourly"
+            },
+            {
+              "username": "R20084@RedboxDIT5",
+              "name": "Rick 20084",
+              "aoid": "G3F64VKPAMKNBCA0",
+              "notes": "Timestamp Hourly"
+            },
+            {
+              "username": "J20085@RedboxDIT5",
+              "name": "Jody 20085",
+              "aoid": "G3F64VKPAMKN50QG",
+              "notes": "Timestamp Hourly"
+            },
+            {
+              "username": "D20086@RedboxDIT5",
+              "name": "Dave 20086",
+              "aoid": "G3F64VKPAMKNEHHM",
+              "notes": "Project"
+            },
+            {
+              "username": "M20087@RedboxDIT5",
+              "name": "Matthew 20087",
+              "aoid": "G3F64VKPAMKNFQTR",
+              "notes": "Project"
+            },
+            {
+              "username": "B20088@RedboxDIT5",
+              "name": "Brooke 20088",
+              "aoid": "G3F64VKPAMKNX9ZC",
+              "notes": "Project - Decimal Format"
+            },
+            {
+              "username": "C20089@RedboxDIT5",
+              "name": "Carol 20089",
+              "aoid": "G3F64VKPAMKNS1EZ",
+              "notes": "Project"
+            },
+            {
+              "username": "J20091@RedboxDIT5",
+              "name": "Jody 20091",
+              "aoid": "G3F64VKPAMKNCT7X",
+              "notes": "Project"
+            },
+            {
+              "username": "D20092@RedboxDIT5",
+              "name": "Dave 20092",
+              "aoid": "G3F64VKPAMKN2R93",
+              "notes": "Hourly"
+            },
+            {
+              "username": "B20094@RedboxDIT5",
+              "name": "Brooke 20094",
+              "aoid": "G3F64VKPAMKN8T91",
+              "notes": "Hourly"
+            },
+            {
+              "username": "C20095@RedboxDIT5",
+              "name": "Carol 20095",
+              "aoid": "G3F64VKPAMKNYNNB",
+              "notes": "Hourly"
+            },
+            {
+              "username": "R20096@RedboxDIT5",
+              "name": "Rick 20096",
+              "aoid": "G3F64VKPAMKNNN3V",
+              "notes": "Hourly"
+            }
+          ]
+        },
+        {
+          "clientName": "myadptlm1",
+          "clientId": "G3XYG1W9PFWG1X11",
+          "password": "adpadp10",
+          "sor": "tlm",
+          "users": [
+            {
+              "username": "chloe@89807591",
+              "name": "Chloe Clocking",
+              "aoid": "G32BZWQRFXB0KVX9",
+              "notes": "Timestamp"
+            },
+            {
+              "username": "clock@89807591",
+              "name": "Myadp Clock",
+              "aoid": "G3PSD85GNR4R9A7D",
+              "notes": "Timestamp"
+            },
+            {
+              "username": "Charlieclktime@89807591",
+              "name": "Charlie Clocktime",
+              "aoid": "G3PSD85GNR4R928P",
+              "notes": "TSH"
+            },
+            {
+              "username": "nancynone@89807591",
+              "name": "Nancy None",
+              "aoid": "G3PSD85GNR4R0EQQ",
+              "notes": "None"
+            },
+            {
+              "username": "harryhour@89807591",
+              "name": "Harry Hoursbased",
+              "aoid": "G3PSD85GNR4R1A9H",
+              "notes": "Hourly"
+            },
+            {
+              "username": "Tommytime@89807591",
+              "name": "Tommy Timebased",
+              "aoid": "G3PSD85GNR4R1DER",
+              "notes": "Duration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "teamName": "Onboarding",
+      "clients": [
+        {
+          "clientName": "redboxdit1",
+          "clientId": "G3GAD7ZZVAQ8WHWC",
+          "password": "adpadp10",
+          "sorVersion": "5.04.03",
+          "sor": "enterprise",
+          "users": [
+            {
+              "username": "ABryant@RedBoxDIT1",
+              "aoid": "G38K91KHNNV1YWVQ",
+              "name": "Alex Bryant",
+              "notes": "has UP1"
+            },
+            {
+              "username": "JMing@RedBoxDIT1",
+              "aoid": "G38K91KHNNV1JV0Y",
+              "name": "Jason Ming",
+              "notes": "has UP1"
+            },
+            {
+              "username": "KKhan@RedBoxDIT1",
+              "aoid": "G38K91KHNNV1PB39",
+              "name": "Kakon Khan",
+              "notes": "has UP1"
+            },
+            {
+              "username": "kviswanath@RedBoxDIT1",
+              "name": "Rehire viswanath",
+              "aoid": "G3HQKJ75QD4K7C8J",
+              "notes": "has UP1"
+            },
+            {
+              "username": "SKhan@RedBoxDIT1",
+              "aoid": "G38K91KHNNV14E6X",
+              "name": "Shumon Khan",
+              "notes": "has UP1"
+            },
+            {
+              "username": "YKhan@RedBoxDIT1",
+              "name": "Yousuf Khan",
+              "aoid": "G3SDCNNZXTYZ7AQK",
+              "notes": "has UP1"
+            },
+            {
+              "username": "TCruise@RedBoxDIT1",
+              "aoid": "G3VMCSD38B72G23V",
+              "name": "Tom B Cruise",
+              "notes": "has UP1"
+            }
+          ]
+        },
+        {
+          "clientName": "redboxdit2",
+          "clientId": "G38RETZSE4HKQQGT",
+          "password": "adpadp10",
+          "sor": "enterprise",
+          "sorVersion": "5.04.03",
+          "users": [
+            {
+              "username": "kkardashian@RedboxDIT2",
+              "aoid": "G3VE60Q8WX9S7HHM",
+              "name": "kim kardashian",
+              "notes": "Has UP1"
+            },
+            {
+              "username": "Janiston@RedboxDIT2",
+              "aoid": "G3VE60Q8WX9S7ZVQ",
+              "name": "Jennifer aniston",
+              "notes": "Has UP1"
+            }
+          ]
+        },
+        {
+          "clientName": "qm18",
+          "clientId": "G3FZTSCPAR5Z208A",
+          "password": "adpadp10",
+          "sor": "vantage",
+          "sorVersion": "17.3",
+          "users": [
+            {
+              "username": "JTucker@qm18",
+              "aoid": "G3ECB02H61X1HJEA",
+              "name": "Jonathan A Tucker"
+            },
+            {
+              "username": "KSmith@QM18",
+              "aoid": "G3SF6YK72MKG1J6Y",
+              "name": "Kelly Smith"
+            }
+          ]
+        },
+        {
+          "clientName": "redbox12",
+          "clientId": "G3Y5KVQV8WWBRBKX",
+          "password": "adpadp10",
+          "sor": "wfn",
+          "users": [
+            {
+              "name": "Ena Landers",
+              "username": "Landers@redbox12",
+              "aoid": "G3K7XN4WYWR8XTMV"
+            },
+            {
+              "name": "Tomeka Dillon",
+              "username": "Tomeka@redbox12",
+              "aoid": "G3K7XN4WYWR87JWZ"
+            },
+            {
+              "name": "Angela Olson",
+              "username": "Angela@redbox12",
+              "aoid": "G3K7XN4WYWR83ZEN"
+            },
+            {
+              "name": "Krysten Griffis",
+              "username": "Krysten@redbox12",
+              "aoid": "G3K7XN4WYWR88MNE"
+            },
+            {
+              "name": "Cyrstal Tolliver",
+              "username": "Cyrstal@redbox12",
+              "aoid": "G3K7XN4WYWR8TV2A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "teamName": "Pay",
+      "clients": [
+        {
+          "clientName": "redboxdit1",
+          "clientId": "G3GAD7ZZVAQ8WHWC",
+          "password": "adpadp10",
+          "sorVersion": "5.04.03",
+          "sor": "enterprise",
+          "users": [
+            {
+              "username": "CUser@RedBoxDIT1",
+              "name": "C User",
+              "aoid": "G3NVBKA5GXDAN399",
+              "notes": "Direct Deposit and Tax Withholding"
+            },
+            {
+              "username": "JUser@RedBoxDIT1",
+              "name": "J User",
+              "aoid": "G3NVBKA5GXDAXWMT",
+              "notes": "Manager (to CUser)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
