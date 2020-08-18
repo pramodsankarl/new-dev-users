@@ -5,8 +5,8 @@
       "clients": [
         {
           "clientName": "redboxdit4",
-          "clientId": "G32M51EN1V968B8C",
-          "password": "adpadp10",
+          "clientId": "CLIENTID1",
+          "password": "pwdpwd100",
           "sor": "eetime",
           "users": [
             {
@@ -37,8 +37,8 @@
         },
         {
           "clientName": "redboxdit5",
-          "clientId": "G3G2H1DJ5SRFDGG1",
-          "password": "adpadp10",
+          "clientId": "CLIENTID2",
+          "password": "pwdpwd100",
           "sor": "eetime",
           "users": [
             {
@@ -123,8 +123,8 @@
         },
         {
           "clientName": "myadptlm1",
-          "clientId": "G3XYG1W9PFWG1X11",
-          "password": "adpadp10",
+          "clientId": "CLIENTID3",
+          "password": "pwdpwd100",
           "sor": "tlm",
           "users": [
             {
@@ -172,8 +172,8 @@
       "clients": [
         {
           "clientName": "redboxdit1",
-          "clientId": "G3GAD7ZZVAQ8WHWC",
-          "password": "adpadp10",
+          "clientId": "CLIENTID4",
+          "password": "pwdpwd100",
           "sorVersion": "5.04.03",
           "sor": "enterprise",
           "users": [
@@ -223,8 +223,8 @@
         },
         {
           "clientName": "redboxdit2",
-          "clientId": "G38RETZSE4HKQQGT",
-          "password": "adpadp10",
+          "clientId": "CLIENTID5",
+          "password": "pwdpwd100",
           "sor": "enterprise",
           "sorVersion": "5.04.03",
           "users": [
@@ -244,8 +244,8 @@
         },
         {
           "clientName": "qm18",
-          "clientId": "G3FZTSCPAR5Z208A",
-          "password": "adpadp10",
+          "clientId": "CLIENTID6",
+          "password": "pwdpwd100",
           "sor": "vantage",
           "sorVersion": "17.3",
           "users": [
@@ -263,8 +263,8 @@
         },
         {
           "clientName": "redbox12",
-          "clientId": "G3Y5KVQV8WWBRBKX",
-          "password": "adpadp10",
+          "clientId": "CLIENTID7",
+          "password": "pwdpwd100",
           "sor": "wfn",
           "users": [
             {
@@ -301,8 +301,8 @@
       "clients": [
         {
           "clientName": "redboxdit1",
-          "clientId": "G3GAD7ZZVAQ8WHWC",
-          "password": "adpadp10",
+          "clientId": "CLIENTID9",
+          "password": "pwdpwd100",
           "sorVersion": "5.04.03",
           "sor": "enterprise",
           "users": [
